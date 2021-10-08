@@ -8,3 +8,7 @@ If You Want To Start This All You Need To Do Is Go To "Index.html" And From Ther
 For This Player You Just Need To Add Your Mp3 To Audio And Your Mp4 to Video
 
 I Made Extra Of The Thign You Need To Copy And Paste If You Want To Add More Of them.
+
+The Song's That I Provided Are From 
+Artist:Neffex
+Songs: Fight Back, GrateFul, Best Of Me, Failure and Blow Up
