@@ -1,3 +1,11 @@
-This Is Where The Video Player Html's are all locate 
+In here Is where the Audio Plaer Htmls If you want to add a mp4 go to
 
-By that I Mean If You Want To Add Video You Add The Video In "Mp4" and Copy and Paste the source code it in here They Change The Names To Your Video Name And add a button to make it come here in "videoHub.html"
+https://github.com/WizardRulez/Source-Code
+
+And Then FInd the Folder That Says Audi0 source Code And Open The file 'vide0" and Copy and Paste It Here
+
+After That You Need To Make A button Linked to "YOURSONG.html" In "video.html"
+
+I will Also have that source in the same place it will be file "butt0n"
+
+Just Copy And Paste And Change the Directory to Here and Change The Name On The Button To Here And It Is Done
