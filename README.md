@@ -12,9 +12,9 @@ Inside Of This is 2 other folders Inside The Folder Names With Be "audi0" and "v
 
 For This Player You Just Need To Add Your Mp3 To Audio And Your Mp4 to Video
 
-If You Want To Find The Source Code Of The Stuff You Use To Add Your Own Songs/Videos Go to
+If You Want To Find The Source Code Of This Mp3-Mp4 Player This Also Has Instruction On How To Add You Own Songs
 
-https://github.com/WizardRulez/Source-Code
+https://github.com/WizardRulez/Mp3-Mp4-Player-Source_Code
 
 The Song's That I Provided For The Default Testing
 
