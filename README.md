@@ -16,8 +16,15 @@ If You Want To Find The Source Code Of The Stuff You Use To Add Your Own Songs/V
 
 https://github.com/WizardRulez/Source-Code
 
-The Song's That I Provided Are From 
+The Song's That I Provided For The Default Testing
 
 Artist:Neffex
 
 Songs: Fight Back, GrateFul, Best Of Me, Failure and All These Thoughts
+
+As Of January 26, 2022 They Release A New Song Every Week They Release Them On Wednesday At 12:00
+
+If you want more of them you can find them on Youtube ,Youtube Music ,Spodify ,Pandora ,Apple Music and iHeart
+     
+This Link For Them On YouTube
+"https://www.youtube.com/user/neffexmusic"
