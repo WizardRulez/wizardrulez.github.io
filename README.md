@@ -16,7 +16,8 @@ If You Want To Find The Source Code Of This Mp3-Mp4 Player This Also Has Instruc
 
 https://github.com/WizardRulez/Mp3-Mp4-Player-Source_Code
 
-If You Are Looking For A Live Demo On This You Can Go to
+If You Are Looking For A Live Demo I will be using google for that because i cant figure out how to use github pages
+
 
 
 The Song's That I Provided For The Default Testing
