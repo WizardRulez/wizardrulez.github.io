@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<DOCTYPE html>
 <html>
 <body>
     
@@ -19,16 +19,6 @@
   font-family:Comic Sans MS;
                
 }
-                   video {
-  border: 3px solid black;
-  outline: blue solid 10px;
-  margin: auto;  
-  padding: 4px;
-  text-align: center;
-  background-color: Black;
-  color:white;
-               
-}
                            h1 {
   border: 0px solid black;
   outline: blue solid 10px;
@@ -40,20 +30,39 @@
   font-family:Comic Sans MS;
                
 }
+
+        
         
     </style>
 
-<audio style = "position:relative; left:0px; top:78px;" width="900" height="480" controls>
-  <source src="../../Mp3/MyAudio/BestOfMe.mp3" type="audio/mp3">
-  <source src="BestOfMe.mp3" type="audio/mpeg">
+<audio style = "position:absolute; left:0px; top:200px;" id="myAudio" hidden>
+  <source src="../../Mp3/MyAudio/AllTheseThoughs.mp3" type="audio/mp3">
+  <source src="AllTheseThoughs.mp3" type="audio/mpeg">
 Your browser does not support the audio tag.
 </audio>
     
-<button style = "position: relative; left:13px; top:-395px;" onclick="location.href = '../videoHub.html';" id="myButton" class="float-left submit-button" >!!Click Me to Go Back To Songs!!</button>
+<button style = "position: absolute; left:5px; top:77px;" onclick="location.href = '../videoHub.html';" id="myButton" class="float-left submit-button" >!!Click Me to Go Back To Songs!!</button>
     
-    <h1 style = "position:relative; left:0px; top:-500px;" >Neffex-Best_Of_Me</h1>
+    <h1 style = "position:relative; left:0px; top:0px;" >Neffex-All_These_Thoughs</h1>
     
-    <button style = "position: relative; left:931px; top:-425px;" onclick="location.href = '../../Index.html';" id="myButton" class="float-left submit-button" >!!CLick Me For Mp3!!</button>
+    <button style = "position: absolute; left:5px; top:125px;" onclick="location.href = '../../Index.html';" id="myButton" class="float-left submit-button" >!!CLick Me For Mp4!!</button>
+
+    <button style = "position:absolute; left:500px; top:77px;" onclick="playAudio()" type="button">CLick Me To Play The Mp3 Audio </button>
+        <button style = "position:absolute; left:850px; top:77px;" onclick="pauseAudio()" type="button">CLick Me To Pause The Mp3 Audio </button>
+
+   
 
 </body>
+<script>
+    var x = document.getElementById("myAudio"); 
+
+function playAudio() { 
+  x.play(); 
+} 
+
+function pauseAudio() { 
+  x.pause(); 
+} 
+    
+    </script>
 </html>
