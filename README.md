@@ -31,3 +31,7 @@ If you want more of them you can find them on Youtube ,Youtube Music ,Spodify ,P
      
 This Link For Them On YouTube
 "https://www.youtube.com/user/neffexmusic"
+
+If You Have Questions Or Don't Know Something Email Me at silvallynull4@gmail.com 
+
+I hope that you like this it took me a long time to make it
