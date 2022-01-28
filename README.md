@@ -10,7 +10,7 @@ If You Just Want To Go To Mp3 Or Mp4 You Can Just Skip "Index.html" And Go To "a
 Inside Of This is 2 other folders Inside The Folder Names With Be "audi0" and "vide0" Inside Of "vide0" Is the htmls of the video inside of "audi0" is the audio htmls
 
 
-For This Player You Just Need To Add Your Mp3 To Audio And Your Mp4 to Video and then do A few other stuff tho make it work
+For This Player You Just Need To Add Your Mp3 To Audio And Your Mp4 to Video Then Do A few other Stuff
 
 If You Want To Find The Source Code Of This Mp3-Mp4 Player This Also Has Instruction On How To Add You Own Songs
 
