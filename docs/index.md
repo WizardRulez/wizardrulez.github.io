@@ -7,8 +7,8 @@
   <body>
      
   
-      <button style = "position: relative; left:0px; top:20px;" onclick="location.href = 'html/videoHub.html';" id="myButton" class="float-left submit-button" >!!Click Me If You Want To Go To MP4!!</button>
-            <button style = "position: relative; left:613px; top:20px;" onclick="location.href = 'html/audioHub.html';" id="myButton" class="float-left submit-button" >!!Click Me If You Want To Go To MP3!!</button>
+      <button style = "position: relative; left:0px; top:20px;" onclick="location.href = '../html/videoHub.html';" id="myButton" class="float-left submit-button" >!!Click Me If You Want To Go To MP4!!</button>
+            <button style = "position: relative; left:613px; top:20px;" onclick="location.href = '../html/audioHub.html';" id="myButton" class="float-left submit-button" >!!Click Me If You Want To Go To MP3!!</button>
   </body>
     
   
