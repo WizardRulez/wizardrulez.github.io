@@ -49,6 +49,9 @@ Your browser does not support the audio tag.
 
     <button style = "position:absolute; left:500px; top:77px;" onclick="playAudio()" type="button">CLick Me To Play The Mp3 Audio </button>
         <button style = "position:absolute; left:850px; top:77px;" onclick="pauseAudio()" type="button">CLick Me To Pause The Mp3 Audio </button>
+        <button onclick="vol0()"style = "position:absolute; left:5; top:300;">Volume Mute</button>
+    <button onclick="volH()" style = "position:absolute; left:5; top:350;">Volume Half</button>
+    <button onclick="volF()" style = "position:absolute; left:5; top:400;">Volume Full</button>
 
    
 
@@ -63,6 +66,17 @@ function playAudio() {
 function pauseAudio() { 
   x.pause(); 
 } 
+        function vol0() { 
+  x.volume = 0.0;
+}
+   
+function volF() { 
+  x.volume = 1.0;
+} 
+    function volH() { 
+  x.volume = 0.5;
+} 
+
     
     </script>
 </html>
